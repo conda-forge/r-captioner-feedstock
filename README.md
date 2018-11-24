@@ -14,9 +14,8 @@ Summary: Provides a method for automatically numbering figures, tables, or other
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-captioner-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-captioner-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-captioner-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-captioner-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-captioner-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-captioner-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-captioner-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-captioner-feedstock)
 
 Current release info
 ====================
