@@ -1,11 +1,11 @@
-About r-captioner
-=================
+About r-captioner-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-captioner-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/adletaw/captioner
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-captioner-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a method for automatically numbering figures, tables, or other objects.  Captions can be displayed in full, or as citations. This is especially useful for adding figures and tables to R markdown documents without having to numbering them manually.
 
